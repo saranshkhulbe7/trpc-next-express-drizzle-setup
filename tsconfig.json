@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "strict": true
+  },
+  "exclude": ["node_modules"]
+}
+
+// the meaning of these options one by one are:
+// 1. target: specifies the version of ECMAScript that the code should be compiled to.
+// 2. module: specifies the module system that the code should be compiled to.
+// 3. strict: enables strict type-checking options.
+// 4. exclude: specifies an array of file or directory names that should be excluded from the compilation.
