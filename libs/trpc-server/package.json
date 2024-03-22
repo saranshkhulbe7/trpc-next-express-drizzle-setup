@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@trpc/server": "^10.45.2"
+    "@trpc/server": "^10.45.2",
+    "@upshot/db": "workspace:^"
   }
 }
