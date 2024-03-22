@@ -116,6 +116,9 @@ importers:
 
   libs/db:
     dependencies:
+      dotenv:
+        specifier: ^16.4.5
+        version: 16.4.5
       drizzle-orm:
         specifier: ^0.30.4
         version: 0.30.4(mysql2@3.9.2)(react@18.2.0)
